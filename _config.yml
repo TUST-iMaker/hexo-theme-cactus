@@ -15,10 +15,9 @@ direction: ltr
 # languages/*.yml
 nav:
   home: /
-  文章: /writing
   校友录: /alumni
+  文章: /writing
   projects: https://github.com/TUST-iMaker
-  
 
 
 # Links to your social media accounts.
